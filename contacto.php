@@ -11,7 +11,7 @@ $mensaje = $_POST['mensaje'];
 
 // ----------- DATOS PARA EL CORREO -----------
 
-$destinatario = "";
+$destinatario = "contacto@quintageneracion.mx";
 $asunto = "Contacto desde nuestra web";
 
 $carta = "De: $nombre \n";
